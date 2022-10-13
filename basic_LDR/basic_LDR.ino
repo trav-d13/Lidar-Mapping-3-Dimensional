@@ -1,7 +1,6 @@
 const int LDR_pin = A0;
 int LDR_value = 0;
 
-
 void setup() {
   Serial.begin(9600);
 }
